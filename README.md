@@ -9,3 +9,4 @@
 - knn_Morgan: Contains the code for the K-Nearest Neighbors model
 - lr_Morgan: Contains the code for the Logistic Regression model
 - rfc_Morgan: Contains the code for the Random Forest Classification model
+- report_Morgan: The final report for this project
